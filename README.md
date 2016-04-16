@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+hey man
+i was happy to see you today, and hope i can be a good worker.
